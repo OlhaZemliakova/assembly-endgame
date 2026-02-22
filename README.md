@@ -14,7 +14,13 @@ Guess the hidden word letter by letter — but beware! Each wrong guess costs a 
   - 🟢 Green → win  
   - 🔴 Red → lose  
   - 🟣 Purple → farewell  
-- Smooth UI animations (fade, pulse, slide)  
+- Smooth UI animations (fade, pulse, slide)
+
+---  
+
+## 🌐 Play Online
+
+You can play the game live here: [https://assembly-endgame-lac.vercel.app]
 
 ---
 
